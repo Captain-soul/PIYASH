@@ -74,8 +74,8 @@ def jalan(z):
 
 logo =                                          """   
 \033[0;93m                                          
-Piyash Sardar
-                                                           
+꧁༒☬ 🅿🅸🆈🅰🆂🅷 ☬༒꧂
+                        ◥꧁ད ॐ卐『P』『i』『y』『a』『s』『h』 卐ॐ ཌ꧂◤✓                                   
  
  
 \033[0;93m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -220,10 +220,10 @@ class __xxx__:
                         year  = ''
                     except:
                         pass
-                    print('\r%s[FAHIM-CP] %s | %s ' % (M, user, pw))
+                    print('\r%s[PIYASH-CP] %s | %s ' % (M, user, pw))
                     wrt = '%s|%s' % (user,pw)
                     cp.append(wrt)
-                    open('FAHIM_CP.txt' , 'a').write('%s\n' % wrt)
+                    open('PIYASH_CP.txt' , 'a').write('%s\n' % wrt)
                     break
                 else:
                     continue
